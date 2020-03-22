@@ -8,8 +8,8 @@ First: `npm i`
 
 Examples:
 
- - set fullscreen: node dbconf --fullscreen
- - set window: node dbconf --window --size 1200x900
+ - set fullscreen: `node dbconf --fullscreen`
+ - set window: `node dbconf --window --size 1200x900`
 
 ## Options
 
